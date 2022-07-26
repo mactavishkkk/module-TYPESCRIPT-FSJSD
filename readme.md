@@ -1,3 +1,9 @@
+## Não se esqueça!
+
+Depois de clonar, instale a depêndencias descritas no package no terminal do repositório local com:
+
+`npm install`
+
 ### Sumário
 
 Exercícios
